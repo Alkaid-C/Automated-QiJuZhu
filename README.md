@@ -2,7 +2,7 @@
 
 一个主要基于[BBDown](https://github.com/nilaoda/BBDown)和[bilibili-api](https://github.com/Nemo2011/bilibili-api)的，为虚拟主播“[@埃因斯坦_Asuse](https://space.bilibili.com/3546831533378448)”设计的半自动起居注撰写机 
 
-关注[@埃因斯坦_Asuse](https://space.bilibili.com/3546831533378448)！
+关注[@埃因斯坦_Asuse](https://space.bilibili.com/3546831533378448)喵！
 关注[@埃因斯坦_Asuse](https://space.bilibili.com/3546831533378448)谢谢喵！
 
 ### 更新记录
